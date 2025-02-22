@@ -1,4 +1,4 @@
-package TallerModificadordeAccesoPaquete.Ejemplos;
+package Taller3ModificadordeAccesoPaquete.Ejemplos;
 
 // Clase Producto con nivel de acceso de paquete
 class Producto2 {

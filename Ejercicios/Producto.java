@@ -1,4 +1,4 @@
-package TallerModificadordeAccesoPaquete.Ejercicios;
+package Taller3ModificadordeAccesoPaquete.Ejercicios;
 
 public class Producto {
     String nombre;

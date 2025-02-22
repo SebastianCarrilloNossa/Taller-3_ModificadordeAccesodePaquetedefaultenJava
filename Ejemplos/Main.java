@@ -9,7 +9,7 @@ class Vehiculo {
 }
 
 // Paquete: paqueteB
-package paqueteB;
+package Taller3ModificadordeAccesoPaquete.Ejemplos;
 
 import paqueteA.Vehiculo;
 

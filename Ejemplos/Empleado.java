@@ -1,4 +1,4 @@
-package TallerModificadordeAccesoPaquete.Ejemplos;
+package Taller3ModificadordeAccesoPaquete.Ejemplos;
 
 class Empleado { // Clase con miembros de paquete (default)
     String nombre;
